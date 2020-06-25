@@ -1,0 +1,9 @@
+name: TribeCrafts
+version: ${project.version}
+main: me.nowaha.tribecrafts.TribeCrafts
+api-version: 1.13
+authors: [Nowaha]
+description: Custom crafting recipes
+website: www.noahverkaik.com
+depend:
+  - InfiniteChests
